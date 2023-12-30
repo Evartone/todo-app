@@ -1,6 +1,6 @@
 {
-  "homepage": "https://evartone.github.io/list",
-  "name": "list",
+  "homepage": "https://evartone.github.io/todo-app",
+  "name": "todo-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
